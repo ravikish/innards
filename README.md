@@ -1,4 +1,4 @@
 # innards
 Good space for my code repo.
-# innards prep
+# gitbash learning as well
 hey there..I am using stash in git
